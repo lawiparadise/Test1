@@ -1,0 +1,22 @@
+### Unity
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/mono_crash.*.json
+
+
+### Visual Studio
+**/.vscode/
+**/.vs/
+**/.vsconfig
+**/*.csproj
+**/*.sln
+**/*.suo
+
+
+### 플랫폼별
+**/.DS_Store
